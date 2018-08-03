@@ -1,0 +1,7 @@
+используем библиотеки
+
+      "guzzlehttp/guzzle": "~6.0",
+        "electrolinux/phpquery": "^0.9.6",
+
+        для експорта и импорта в ексель используем
+        "moonlandsoft/yii2-phpexcel": "*"
